@@ -1,0 +1,1 @@
+git add is nothing but staging the data 
