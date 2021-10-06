@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-these is a stash file
-=======
-this  file is  going to  cut 
->>>>>>> Stashed changes

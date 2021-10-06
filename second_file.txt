@@ -1,3 +1,0 @@
-git add is nothing but staging the data 
-git commit the work from staging to local repo
-
